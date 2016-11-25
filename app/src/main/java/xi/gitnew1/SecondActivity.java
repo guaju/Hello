@@ -7,4 +7,7 @@ import android.app.Activity;
  */
 
 public class SecondActivity extends Activity {
+
+
+    //哇哈哈哈哈哈哈哈
 }
